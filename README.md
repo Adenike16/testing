@@ -1,7 +1,6 @@
 # testing
 Testing new repo.
-Learning how to navigate github
-<!DOCTYPE html>
+Learning how to navigate github!
 <html lang="en">
 <head>
     <meta charset="UTF-8">
